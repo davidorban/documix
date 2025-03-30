@@ -1,6 +1,6 @@
 **Documix**
 
-Python License Status
+Python
 
 **Documix** is a command-line tool that scrapes and packages website documentation into a single, AI-friendly text file, inspired by [Repomix](https://github.com/xai-org/repomix). Just as Repomix condenses code repositories for large language models (LLMs), Documix does the same for web-based docs—perfect for developers, researchers, and AI enthusiasts who want to analyze or process site content efficiently.
 
@@ -120,7 +120,7 @@ Documix respects robots.txt and site terms. Use responsibly and check permission
 
 **License**
 
-MIT License (LICENSE) \- Free to use, modify, and distribute.
+Apache (LICENSE) \- Free to use, modify, and distribute.
 
 **Acknowledgments**
 
