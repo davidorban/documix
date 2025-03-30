@@ -1,0 +1,6 @@
+requests>=2.32.3
+firecrawl>=1.15.0
+pydantic>=2.10.3
+nest-asyncio>=1.6.0
+websockets>=15.0.1
+python-dotenv>=1.1.0
